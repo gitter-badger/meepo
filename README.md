@@ -9,6 +9,14 @@ It is a work in progress until otherwise noted.
 - last.fm api querying
 - vim-style find replace
 
+### Options ###
+#### .dt, .desktop ####
+|Short|Long|Description|
+|-----|----|-----------|
+|-a   |--add|Add a new desktop to the end of the list.
+|-r   |--remove|Remove the specified or (*default: last*) desktop.
+|-s   |--shift|Add a new desktop the the beginning of the list.
+
 ### Contributing ###
 Pull requests are your friends.  
 You can find us at #.files on irc.rizon.net.
