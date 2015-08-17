@@ -1,4 +1,6 @@
 # Meepo #
+
+[![Join the chat at https://gitter.im/arawde/meepo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/arawde/meepo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Meepo is a fork of [deskbot](https://github.com/6c37/deskbot). You can think of it as a neovim to deskbot's vim: A heavy overhaul of much of its core functionality.
 
 It is a work in progress until otherwise noted. 
